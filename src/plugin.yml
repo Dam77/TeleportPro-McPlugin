@@ -1,0 +1,9 @@
+name: TeleportPro
+author: Dam
+version: 1.0
+main: fr.dam.main.Main
+commands:
+  rtp:
+  tpall:
+  tphere:
+  tp:
